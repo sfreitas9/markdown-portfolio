@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Time to read the news](http://cnn.com)
